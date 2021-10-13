@@ -1,8 +1,4 @@
 <p align="center">
- 
-</p align="center">
-<img src="https://github.com/ewertont/ewertont/blob/main/images/bg.png" />
-
 <p align="center">
  I'm a passionate develop who's always willing to learn and work across technologies. I love to explore new technologies 👽💻. I'm deep into Web Development.
 </p>  
