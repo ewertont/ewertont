@@ -17,20 +17,23 @@
 </p>
 
 <h2 align="left">Technology Stack</h2>
-
-<p align="left">
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
-<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
-<img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
-<img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
-<img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
-<img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
-<img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
-</p>
+<div align="center" dir="auto"> 
+ <p align="left">
+ <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+ <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
+ <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
+ <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
+ <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
+ <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
+ <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
+ <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
+ </p>
+</div>
 
 ## Statistics: ⚡
-<p align="center">
-<img width="420px" align="left" src="https://github-readme-stats.vercel.app/api?username=ewertont&theme=discord_old_blurple"/>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ewertont&layout=compact&theme=discord_old_blurple" />
-</p>
+<div align="center" dir="auto"> 
+ <p align="center">
+ <img width="420px" align="left" src="https://github-readme-stats.vercel.app/api?username=ewertont&theme=discord_old_blurple"/>
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ewertont&layout=compact&theme=discord_old_blurple" />
+ </p>
+</div>
