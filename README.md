@@ -1,24 +1,31 @@
 ## <h1 align="center"><a href="https://www.linkedin.com/in/ewertontbezerra/" rel="nofollow">Ewerton Tavares</a></h1>
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ewertontbezerra/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/ewerton.tbezerra/) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/ewerton.tbezerra/)
-
-<p align="left">
+<div align="center"> 
+<a href="https://www.linkedin.com/in/ewertontbezerra/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.instagram.com/ewerton.tbezerra/"><img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://www.facebook.com/ewerton.tbezerra/"><img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"></a>
+ </div>
+<br>
+<p align="center">
  I'm a passionate develop who's always willing to learn and work across technologies. I love to explore new technologies 👽💻. 
 <br>
  I'm deep into Web Development.
 </p>  
 <br> 
- <p align="left">
+
+<div align="center"> 
+ <p align="center">
  
  
  <img src="https://badges.pufler.dev/visits/ewertont/ewertont"/> 
  <img src="https://badges.pufler.dev/repos/ewertont"/>
 
 </p>
+</div>
 
 <h2 align="left">Technology Stack</h2>
-<div align="center" dir="auto"> 
- <p align="left">
+<div align="center"> 
+ <p align="center">
  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
  <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
@@ -31,9 +38,9 @@
 </div>
 
 ## Statistics: ⚡
-<div align="center" dir="auto"> 
+<div align="center"> 
  <p align="center">
- <img width="420px" align="left" src="https://github-readme-stats.vercel.app/api?username=ewertont&theme=discord_old_blurple"/>
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ewertont&layout=compact&theme=discord_old_blurple" />
+ <img width="420px" align="center" src="https://github-readme-stats.vercel.app/api?username=ewertont&theme=discord_old_blurple"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ewertont&layout=compact&theme=discord_old_blurple" />
  </p>
 </div>
