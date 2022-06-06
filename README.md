@@ -13,7 +13,6 @@
  
  <img src="https://badges.pufler.dev/visits/ewertont/ewertont"/> 
  <img src="https://badges.pufler.dev/repos/ewertont"/>
- <img src="https://badges.pufler.dev/commits/monthly/ewertont" />
 
 </p>
 
