@@ -13,16 +13,6 @@
 </p>  
 <br> 
 
-<div align="center"> 
- <p align="center">
- 
- 
- <img src="https://badges.pufler.dev/visits/ewertont/ewertont"/> 
- <img src="https://badges.pufler.dev/repos/ewertont"/>
-
-</p>
-</div>
-
 <h2 align="left">Technology Stack</h2>
 <div align="center"> 
  <p align="center">
