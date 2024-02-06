@@ -6,9 +6,8 @@
  </div>
 <br>
 <p align="center">
- I'm a passionate develop who's always willing to learn and work across technologies. I love to explore new technologies 👽💻. 
+ I am passionate about technology and I love new challenges. 🚀👽💻. 
 <br>
- I'm deep into Web Development.
 </p>  
 <br> 
 
